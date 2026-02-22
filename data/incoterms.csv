@@ -1,0 +1,12 @@
+Incoterm,Description,Risk_Transfer,Transport_Mode
+EXW,Ex Works,Exporter at origin,Any
+FCA,Free Carrier,Buyer after delivery to carrier,Any
+FAS,Free Alongside Ship,Buyer on ship,Sea
+FOB,Free on Board,Buyer on ship,Sea
+CFR,Cost and Freight,Buyer on ship,Sea
+CIF,Cost, Insurance, Freight,Buyer on ship,Sea
+CPT,Carriage Paid To,Buyer at destination,Any
+CIP,Carriage and Insurance Paid To,Buyer at destination,Any
+DAP,Delivered at Place,Buyer at destination,Any
+DPU,Delivered at Place Unloaded,Buyer at destination,Any
+DDP,Delivered Duty Paid,Seller until destination,Any
