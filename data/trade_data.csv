@@ -1,0 +1,11 @@
+Date,Exporter,Importer,Product,Quantity,Value_USD,Incoterm,Transport,Currency,Exchange_Rate
+2026-01-01,Costa Rica,USA,Coffee,5000,15000,FOB,Sea,USD,1.0
+2026-01-02,Germany,Japan,Machinery,200,500000,CIF,Sea,EUR,1.08
+2026-01-03,China,Mexico,Electronics,1000,200000,DDP,Air,CNY,0.14
+2026-01-04,Brazil,Spain,Soybeans,3000,90000,FOB,Sea,BRL,0.19
+2026-01-05,USA,Canada,Medical Devices,150,75000,EXW,Air,USD,1.0
+2026-01-06,India,France,Textiles,5000,120000,CIF,Sea,INR,0.012
+2026-01-07,Italy,Germany,Wine,1000,50000,FOB,Sea,EUR,1.08
+2026-01-08,Japan,USA,Cars,50,250000,CIF,Sea,JPY,0.007
+2026-01-09,Australia,China,Beef,800,60000,DDP,Air,AUD,0.65
+2026-01-10,Netherlands,UK,Chemicals,200,40000,EXW,Truck,EUR,1.08
